@@ -1,2 +1,2 @@
-# vidly-mvc-5
-A new line of code
+# Vidly
+Movie store app made with ASP.NET MVC 5.
